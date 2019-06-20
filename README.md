@@ -1,4 +1,4 @@
-#New Weather App
+# New Weather App
 
 A simple weather app that communicates to an API. If you are looking to create one please visit openweatherapp.org, create an account, and get an API key! (Always remember to put it inside of a secrets folder) :)
 
