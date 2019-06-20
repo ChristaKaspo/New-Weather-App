@@ -7,6 +7,15 @@ A simple weather app that communicates to an API. If you are looking to create o
 Run npm install
 (If you are looking to start from scratch, create-react-app is easy to set up!)
 
+## Run Appliation
+
+Run npm start
+Then open up http://localhost:3000/ to view your application
+
+## Tests
+
+Run npm test
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
