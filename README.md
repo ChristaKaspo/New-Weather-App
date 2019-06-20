@@ -5,6 +5,7 @@ A simple weather app that communicates to an API. If you are looking to create o
 ## Installation
 
 Run npm install
+(If you are looking to start from scratch, create-react-app is easy to set up!)
 
 
 ## Contributing
